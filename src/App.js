@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React from meimei and webb
+          Learn React from meimei
         </a>
       </header>
     </div>
